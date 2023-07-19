@@ -55,4 +55,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 - The dashboard UI design and components were inspired by various open-source projects and design libraries.
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to me at adityajha8906@gmail.com.
+If you have any questions, suggestions, or feedback, please feel free to me at phuocthanh20cgh@gamil.com.
