@@ -1,7 +1,7 @@
 
 # Admin Dashboard(reactBoard)
 # PLEASE GIVE MY REPO A STAR :)
-**published on - https://reactjsexample.com/an-admin-dashboard-built-using-javascript-and-react-js/**
+**published on - https://admin-bookstore2hand.vercel.app/**
 
 This project is an admin dashboard built using JavaScript and React.js. It provides a comprehensive user interface for managing and monitoring various aspects of an application or system. The dashboard offers a range of features, including data visualization, user management, and system configuration.
  
@@ -22,7 +22,7 @@ To run the admin dashboard locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aditya0929/reactBoard.git
+   git clone https://github.com/PhuocThanh1604/admin-bookstore2hand
    ```
 
 2. Navigate to the project directory:
